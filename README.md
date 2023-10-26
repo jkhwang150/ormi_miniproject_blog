@@ -19,7 +19,7 @@
 ###3-1. 프로젝트 구조
 (트리 추가)
 ###3-2. 개발 일정
-![일정관리10 26](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/9682967f-6ec4-40f6-bc24-2ea0af4dcb30)
+![일정 1](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/34bcf810-4928-4f48-85b0-1c320b12b041)
 
 https://www.notion.so/1f1872ff265b464c988e90501f039ee1 (노션 제작) - 10/27일까지 배포 예정
 
