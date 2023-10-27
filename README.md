@@ -20,8 +20,8 @@
 (트리 추가)
 ###3-2. 개발 일정
 ![일정 1](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/34bcf810-4928-4f48-85b0-1c320b12b041)
-
-https://www.notion.so/1f1872ff265b464c988e90501f039ee1 (노션 제작) - 10/27일까지 배포 예정
+### 노션 주소
+https://www.notion.so/1f1872ff265b464c988e90501f039ee1 
 
 # 4. UI/ BM
 ![페이지설계](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/c3743c98-31e4-4cc5-a632-2b9d32ad64e8)
