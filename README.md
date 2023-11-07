@@ -48,12 +48,13 @@ https://www.notion.so/1f1872ff265b464c988e90501f039ee1
 
 ## 6. 메인 기능
 1. 회원 가입 및 로그인
-
-
+![Accounts](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/9f6d6ee6-3ba3-40ce-b0a1-0ae361620f4f)
 
 2. 게시판
 
+![CRUD_LOGOUT](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/18eec2fc-b607-43e2-8993-d36c4bc06ec0)
 
+![Login](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/6d83b501-3402-4bc9-86f9-787440e1de9c)
 
 
 ## 7. 추가 기능
