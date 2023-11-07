@@ -47,17 +47,18 @@ https://www.notion.so/1f1872ff265b464c988e90501f039ee1
 ![image](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/4ab75449-2030-4a7c-b71a-0f4c3294b2d5)
 
 ## 6. 메인 기능
-1. 블로그의 순기능 - 글작성, 댓글 등 (CRUD)
+1. 회원 가입 및 로그인
 
-2. 회원 가입 및 로그인 기능
 
-3. 메인 페이지
+
+2. 게시판
+
 
 
 
 ## 7. 추가 기능
-1. ChatGPT API를 활용하여 영화 추천
+OpenAI API를 활용하여 영화 추천
+![Recommand](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/d0f17868-ced2-49b4-a732-a19575e2772a)
 
-2. 크롤링 정보 게시 - (영화 순위 등)
 
 ## 8. 느낀점
