@@ -12,11 +12,13 @@
 
 # 2. 개발 환경 
 ### 2-1. 개발환경
+
 ![image](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/5e05abc7-cca2-4a01-a963-538f37d87e4c)
 
  
 # 3. 프로젝트 구조와 개발 일정
 ###3-1. 프로젝트 구조
+
 ![image](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/5c840e67-14cd-49e2-84e8-99f3c481408e)
 
 ###3-2. 개발 일정
