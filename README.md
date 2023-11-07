@@ -5,19 +5,56 @@
 - 최신 영화 소식을 접할 수 있는 블로그
 - 실시간 영화 순위를 확인할 수 있는 블로그
 ### 1-2. 기능
-- 글 작성시 영화 제목 카테고리를 추가하여 글 제목 앞에 추가
-- 크롤링을 통해 최신 영화 정보와 실시간 영화 순위를 다양한 카테고리로 소개
+- 영화에 대한 이야기를 나눌 수 있는 게시판
 - ChatGPT API를 활용한 영화 추천을 받을 수 있는 블로그
+- 회원가입, 로그인, 로그아웃 기능
+- 게시글에 대한 댓글 등록
 
-# 2. 개발 환경 및 배포 URL
+# 2. 개발 환경 
 ### 2-1. 개발환경
-- Django Web Framework
-- Python3.8
-- Beautifulsoup
+![image](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/5e05abc7-cca2-4a01-a963-538f37d87e4c)
+
  
 # 3. 프로젝트 구조와 개발 일정
 ###3-1. 프로젝트 구조
-(트리 추가)
+├─accounts
+│  └─__pycache__
+├─main
+│  ├─migrations
+│  │  └─__pycache__
+│  └─__pycache__
+├─movie_blog
+│  └─__pycache__
+├─postlist
+│  ├─migrations
+│  │  └─__pycache__
+│  └─__pycache__
+├─recommand
+│  ├─migrations
+│  │  └─__pycache__
+│  └─__pycache__
+├─static
+│  ├─assets
+│  │  ├─controller
+│  │  ├─css
+│  │  ├─favicon
+│  │  ├─img
+│  │  │  ├─about
+│  │  │  ├─blog
+│  │  │  ├─branding
+│  │  │  ├─hero
+│  │  │  ├─project
+│  │  │  ├─single
+│  │  │  ├─single-project
+│  │  │  └─testimonial
+│  │  └─js
+│  └─jquery
+│      └─js
+├─templates
+│  ├─accounts
+│  ├─main
+│  ├─postlist
+│  └─recommand
 ###3-2. 개발 일정
 ![일정 1](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/34bcf810-4928-4f48-85b0-1c320b12b041)
 ### 노션 주소
