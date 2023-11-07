@@ -17,44 +17,8 @@
  
 # 3. 프로젝트 구조와 개발 일정
 ###3-1. 프로젝트 구조
-├─accounts
-│  └─__pycache__
-├─main
-│  ├─migrations
-│  │  └─__pycache__
-│  └─__pycache__
-├─movie_blog
-│  └─__pycache__
-├─postlist
-│  ├─migrations
-│  │  └─__pycache__
-│  └─__pycache__
-├─recommand
-│  ├─migrations
-│  │  └─__pycache__
-│  └─__pycache__
-├─static
-│  ├─assets
-│  │  ├─controller
-│  │  ├─css
-│  │  ├─favicon
-│  │  ├─img
-│  │  │  ├─about
-│  │  │  ├─blog
-│  │  │  ├─branding
-│  │  │  ├─hero
-│  │  │  ├─project
-│  │  │  ├─single
-│  │  │  ├─single-project
-│  │  │  └─testimonial
-│  │  └─js
-│  └─jquery
-│      └─js
-├─templates
-│  ├─accounts
-│  ├─main
-│  ├─postlist
-│  └─recommand
+![image](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/5c840e67-14cd-49e2-84e8-99f3c481408e)
+
 ###3-2. 개발 일정
 ![일정 1](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/34bcf810-4928-4f48-85b0-1c320b12b041)
 ### 노션 주소
