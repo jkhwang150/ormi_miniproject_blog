@@ -27,7 +27,7 @@
 https://www.notion.so/1f1872ff265b464c988e90501f039ee1 
 
 # 4. UI/ BM
-![페이지설계](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/c3743c98-31e4-4cc5-a632-2b9d32ad64e8)
+![image](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/80fc0a81-d200-415a-a9f0-8a016507a50f)
 
 
 # 5. DB 모델링(ERD)
