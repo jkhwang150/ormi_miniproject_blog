@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommand Movie</title>
+    <link href="{%static 'assets/css/chat.css'%}" rel="stylesheet" id="bootstrap-css">
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script src="{%static 'assets/css/chat.js'%}"></script>
+    <!-- Axios CDN 추가 -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <!-- Required Meta Tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+    <!-- Document Title, Description, and Author -->
+    <title>Blog - Concept - Bootstrap 5 Portfolio Template</title>
+    <meta name="description" content="Concept is a Bootstrap 5 Portfolio Template.">
+    <meta name="author" content="BootstrapBrain">
+  
+    <!-- Favicon and Touch Icons -->
+    <link rel="icon" type="image/png" sizes="512x512" href="{% static 'assets/favicon/favicon-512x512.png' %}">
+  
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="{% static 'assets/css/concept-bsb.css' %}">
+</head> 
+ <!-- Header -->
+ <header id="header">
+    
+
+    <!-- Navbar 1 - Bootstrap Brain Component -->
+    <nav class="navbar navbar-expand-md bg-light bsb-navbar bsb-navbar-hover bsb-navbar-caret">
+      <div class="container">
+        <a class="navbar-brand" href="/">
+          <img src="{% static 'assets/img/branding/concept-logo.svg' %}" class="bsb-tpl-logo" alt="">
+        </a>
+        <button class="navbar-toggler border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" />
+          </svg>
+        </button>
+        <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Menu</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <ul class="navbar-nav justify-content-end flex-grow-1">
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="/">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="/">Post</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/recommand">Recommand</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="about.html">Login</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.html">Sign Up</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+<body>
+    <div class="chat_window">
+        <div class="top_menu">
+            <div class="buttons">
+                <div class="button close"></div>
+                <div class="button minimize"></div>
+                <div class="button maximize"></div>
+            </div>
+            <div class="title">Movie Export</div>
+            
+        </div>
+        <ul class="messages"></ul>
+        <div class="bottom_wrapper clearfix">
+            <div class="message_input_wrapper">
+                <input class="message_input" placeholder="질문을 입력해주세요." />
+            </div>
+            <div class="send_message">
+                <div class="icon"></div><div class="text">Send</div>
+            </div>
+        </div>
+    </div>
+    <div class="message_template">
+        <li class="message">
+            <div class="avatar"></div>
+            <div class="text_wrapper"><div class="text"></div></div>
+        </li>
+    </div>
+</body>
+
+</html>
