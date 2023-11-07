@@ -1,3 +1,13 @@
+# 0. 목차
+1. [목표와 기능](# 1. 목표와 기능)
+2. [개발 환경 ](# 2. 개발 환경)
+3. [프로젝트 구조와 개발 일정(# 3. 프로젝트 구조와 개발 일정)
+4. [UI 설계](# 4. UI 설계)
+5. [DB 모델링](# 5. DB 모델링)
+6. [메인 기능](# 6. 메인 기능)
+7. [추가 기능](# 7. 추가 기능)
+8. [느낀점](# 8. 느낀점)
+
 # 1. 목표와 기능
 ### 1-1. 목표
 - 영화에 대한 견해를 나눌 수 있는 블로그
@@ -26,17 +36,17 @@
 ### Notion Address
 https://www.notion.so/1f1872ff265b464c988e90501f039ee1 
 
-# 4. UI/ BM
+# 4. UI 설계
 ![image](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/80fc0a81-d200-415a-a9f0-8a016507a50f)
 
 
-# 5. DB 모델링(ERD)
+# 5. DB 모델링
 ![영화블로그 DRF](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/fe7e29c5-2cf4-45f9-a5ca-2bac1ae6e339)
 
 ## 실제 구현
 ![image](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/4ab75449-2030-4a7c-b71a-0f4c3294b2d5)
 
-# 6. 메인 기능 (mermaid) - (개발 후 자세하게 추가)
+# 6. 메인 기능
 1. 블로그의 순기능 - 글작성, 댓글 등 (CRUD)
 
 2. 회원 가입 및 로그인 기능
