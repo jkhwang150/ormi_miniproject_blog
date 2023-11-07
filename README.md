@@ -13,7 +13,6 @@
 - 영화에 대한 견해를 나눌 수 있는 블로그
 - 영화 추천이 가능한 블로그
 - 최신 영화 소식을 접할 수 있는 블로그
-- 실시간 영화 순위를 확인할 수 있는 블로그
 ### 1-2. 기능
 - 영화에 대한 이야기를 나눌 수 있는 게시판
 - ChatGPT API를 활용한 영화 추천을 받을 수 있는 블로그
@@ -41,9 +40,6 @@ https://www.notion.so/1f1872ff265b464c988e90501f039ee1
 
 
 ## 5. DB 모델링
-![영화블로그 DRF](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/fe7e29c5-2cf4-45f9-a5ca-2bac1ae6e339)
-
-## 실제 구현
 ![image](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/4ab75449-2030-4a7c-b71a-0f4c3294b2d5)
 
 ## 6. 메인 기능
