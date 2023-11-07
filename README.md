@@ -50,7 +50,8 @@ https://www.notion.so/1f1872ff265b464c988e90501f039ee1
 
 ![CRUD_LOGOUT](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/18eec2fc-b607-43e2-8993-d36c4bc06ec0)
 
-![Login](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/6d83b501-3402-4bc9-86f9-787440e1de9c)
+![Logout](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/cd14f4d4-4b52-4bdd-9394-3ade8ac3965d)
+
 
 
 ## 7. 추가 기능
