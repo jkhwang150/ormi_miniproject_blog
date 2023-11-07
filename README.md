@@ -33,6 +33,8 @@ https://www.notion.so/1f1872ff265b464c988e90501f039ee1
 # 5. DB 모델링(ERD)
 ![영화블로그 DRF](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/fe7e29c5-2cf4-45f9-a5ca-2bac1ae6e339)
 
+## 실제 구현
+![image](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/4ab75449-2030-4a7c-b71a-0f4c3294b2d5)
 
 # 6. 메인 기능 (mermaid) - (개발 후 자세하게 추가)
 1. 블로그의 순기능 - 글작성, 댓글 등 (CRUD)
