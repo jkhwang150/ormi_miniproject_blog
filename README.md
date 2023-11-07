@@ -23,7 +23,7 @@
 
 ### 3-2. 일정
 ![일정 1](https://github.com/jkhwang150/ormi_miniproject_blog/assets/75780140/34bcf810-4928-4f48-85b0-1c320b12b041)
-### 노션 주소
+### Notion Address
 https://www.notion.so/1f1872ff265b464c988e90501f039ee1 
 
 # 4. UI/ BM
